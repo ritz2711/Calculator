@@ -1,0 +1,17 @@
+.button{
+    background: greenyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    width: 80px;
+    border-radius: 0.8rem;
+    margin: 0.5rem;
+    position: relative;
+
+}
+.clear{
+    grid-column: 1/5 ;
+    width: 365px;
+    background-color: orange;
+}
